@@ -17,7 +17,7 @@ Welcome to the frontend repository of Sala7ly - your platform for efficient proj
 - **Description:** Material Tailwind combines the concepts of Material Design and the utility-first approach of Tailwind CSS. It offers pre-designed components and styles inspired by Google's Material Design guidelines, making it easier to create consistent and visually appealing user interfaces.
 
 ### Formik
-- **Description:** Formik is a form management library for React. It simplifies the process of building and validating forms by providing utilities and components that handle form state, validation, and submission. Formik reduces boilerplate and streamlines form-related logic.
+- **Description:** Formik is a form management library for React. It simplifies the process of building and validating forms by providing utilities and components that handle form state, validation, and submission. Formik reduces boilerplate and streamlines form-related logic  and using to Yup ensuring data integrity through validation..
 
 ### Getting Started with Create React App
 
