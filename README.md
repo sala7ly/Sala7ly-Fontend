@@ -19,6 +19,9 @@ Welcome to the frontend repository of Sala7ly - your platform for efficient proj
 ### Formik
 - **Description:** Formik is a form management library for React. It simplifies the process of building and validating forms by providing utilities and components that handle form state, validation, and submission. Formik reduces boilerplate and streamlines form-related logic  and using to Yup ensuring data integrity through validation..
 
+### Axios
+- **Description:** Making it an essential tool for building robust and efficient network communication in web applications. Whether you're fetching data, handling errors, or managing authentication, Axios streamlines the process
+
 ### Getting Started with Create React App
 
 This app created by react  [Create React App]
