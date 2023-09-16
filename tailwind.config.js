@@ -21,8 +21,13 @@ module.exports = withMT({
           },green:{
           50:"#173d3d"
           }
-        },
+        },boxShadow: {
+          '3xl': 'rgba(100, 100, 111, 0.2) 0px 7px 29px 0px',
+        }
+  
     },
   },
   plugins: [],
 });
+
+
